@@ -7,20 +7,20 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #1C1427;
+  background-color: #09122C;
   color: #333;
   line-height: 1.6;
 }
 
 header {
-  background-color: #0E185F;
-  color: white;
+  background-color: #7BD3EA;
+  color: #09122C;
   text-align: center;
   padding: 3rem 0;
 }
 
 header h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 header p {
@@ -36,7 +36,7 @@ header p {
 }
 
 .certificate-card {
-  background: #1C1427;
+  background: #09122C;
   border: 0px solid #ddd;
   border-radius: 1px;
   overflow: hidden;
@@ -66,8 +66,8 @@ header p {
 }
 
 footer {
-  background-color: #0E185F;
-  color: #F6F6F6;
+  background-color: #7BD3EA;
+  color: #09122C;
   text-align: center;
   padding: 1rem 0;
   position: relative;
